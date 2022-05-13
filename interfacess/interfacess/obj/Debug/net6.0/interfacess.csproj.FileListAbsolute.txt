@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/interfacess.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/interfacess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/interfacess.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/interfacess.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/interfacess.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/bin/Debug/net6.0/interfacess
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/bin/Debug/net6.0/interfacess.deps.json
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/bin/Debug/net6.0/interfacess.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/bin/Debug/net6.0/interfacess.dll
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/bin/Debug/net6.0/interfacess.pdb
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/interfacess.dll
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/refint/interfacess.dll
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/interfacess.pdb
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/interfacess.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/interfacess/interfacess/obj/Debug/net6.0/ref/interfacess.dll
